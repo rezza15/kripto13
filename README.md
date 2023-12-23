@@ -60,7 +60,7 @@ Menampilkan hasil enkripsi ECB dalam format heksadesimal.
 
 <h2>OutPut </h2>
 
-![Gambar 1](screenshoot/1.PNG)
+![Gambar 1](screenshoot/1.png)
 
 <p>
  TERIMA KASIH.
